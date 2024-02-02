@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###About me:
+
+
+I'm Thomas, a Computer Science student with a strong passion for Data Visualization. I thrive on the convergence of technology and data, using my programming skills to create compelling visual narratives from complex datasets. Exploring the cutting-edge field of Data Visualization, I'm dedicated to translating intricate information into insightful visuals that tell a story. I'm excited to continue my journey in this exciting realm, where innovation and insights converge, particularly focusing on the art and science of presenting data in meaningful and impactful ways.
